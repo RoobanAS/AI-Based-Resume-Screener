@@ -1,7 +1,3 @@
-Team ID: CAS01
-
-PS ID: AIML02
-
 Problem Statement:
 
 Recruiters often struggle with manually screening thousands of resumes, leading to inefficiencies, bias, and inconsistent candidate selection. The Automated Resume Screening System leverages AI and NLP to parse, analyze, and rank resumes based on job descriptions, ensuring a faster, unbiased, and more accurate hiring process. By using BERT embeddings and machine learning models, the system enhances candidate-job matching, reduces hiring time, and improves recruitment efficiency.
